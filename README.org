@@ -1,6 +1,6 @@
-#+TITLE:  Likhon's GNU Emacs Configuration
-#+AUTHOR: Likhon Barai
-#+EMAIL:  likhonhere007@gmail.com
+#+TITLE:  Likhon's GNU Emacs Configuration (Alexander's Modifications)
+#+AUTHOR: Alexander Max Ranabel
+#+EMAIL:  limitednon11@gmail.com
 #+DATE:   2022 Nov 19
 #+TAGS:   emacs
 
